@@ -103,3 +103,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
 #tds
 .tds
+#archivo fuente del lenguaje 
+tempCodeRunnerFile.c
